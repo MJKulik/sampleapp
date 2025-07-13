@@ -1,0 +1,13 @@
+bin/
+obj/
+*.user
+*.vs
+.vscode/
+*.suo
+*.userprefs
+*.cache
+*.log
+*.DS_Store
+*.pdb
+*.dbmdl
+publish/
