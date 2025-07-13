@@ -11,3 +11,7 @@ obj/
 *.pdb
 *.dbmdl
 publish/
+node_modules/
+logs/
+.env
+
